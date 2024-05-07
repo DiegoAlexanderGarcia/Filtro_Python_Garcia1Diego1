@@ -1,0 +1,26 @@
+{"usuarios":[
+    {
+    "nombre_usuario":"jjgarson",
+    "pasword":"123456",  
+    "tipo":"cc",
+    "iD":"1036489789",
+    "nombre":"jose junior",
+    "apellido":"garson penuela",
+    "direccion":"tibu",
+    "telefono":"3215468754",
+    "plan":""
+
+    }
+],
+
+    "planes":[
+        {
+            "plan1":[{"basico":"10Gb de navegacion, mensajes y minutos ilimitados, redes socioales como facebook, x, whatsapp gratis para que no gastes tus datos y una app gratis para que escojas y no consumas tus datos"}],
+            "plan2":[{"medio":"30Gb de navegacion, mensajes y minutos ilimitados, redes socioales como facebook, x, whatsapp gratis para que no gastes tus datos y una app gratis para que escojas y no consumas tus datos"}],
+            "plan3":[{"ilimitado":"navegacion ilimitada, mensajes y minutos ilimitados,1 mes gratis para que sifrutes de series y peliculas en netflix"}]
+        }
+    ],
+    
+    "descuentos":[{"fiel1":"si eres cliente con un año disfrutando de nuestro servicio "}]
+
+}
